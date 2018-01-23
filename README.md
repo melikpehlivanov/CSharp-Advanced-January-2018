@@ -1,4 +1,4 @@
- *<p align="center"> Software Technologies - October 2017<p>
+ *<p align="center"> CSharp Advanced - January 2018<p>
 <a href="https://softuni.bg/trainings/1714/software-technologies-october-2017">  ![SoftUni logo][logo] <a/>
 
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
